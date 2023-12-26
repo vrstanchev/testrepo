@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>FSiC2023</title>
+        <link>https://peertube.f-si.org</link>
+        <description/>
+        <lastBuildDate>Tue, 26 Dec 2023 16:07:06 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Toraifōsu</generator>
+        <image>
+            <title>FSiC2023</title>
+            <url>https://peertube.f-si.org/client/assets/images/icons/icon-96x96.png</url>
+            <link>https://peertube.f-si.org</link>
+        </image>
+        <copyright>All rights reserved, unless otherwise specified in the terms specified at https://peertube.f-si.org/about and potential licenses granted by each content&apos;s rightholder.</copyright>
+        <atom:link href="https://peertube.f-si.org/feeds/videos.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome from Sorbonne Université and LIP6, Marie-Minerve Louerat, LIP6 ]]></title>
+            <link>https://peertube.f-si.org/videos/watch/64f35b77-7eda-44bc-9ade-0dd6ce4a1a6d</link>
+            <guid>https://peertube.f-si.org/videos/watch/64f35b77-7eda-44bc-9ade-0dd6ce4a1a6d</guid>
+            <pubDate>Thu, 24 Aug 2023 14:23:11 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/64f35b77-7eda-44bc-9ade-0dd6ce4a1a6d-1080.torrent" length="63881775">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/64f35b77-7eda-44bc-9ade-0dd6ce4a1a6d.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Open discussion at the end of FSiC2023]]></title>
+            <link>https://peertube.f-si.org/videos/watch/087a7e62-c067-473d-957c-57fd9ce85245</link>
+            <guid>https://peertube.f-si.org/videos/watch/087a7e62-c067-473d-957c-57fd9ce85245</guid>
+            <pubDate>Thu, 24 Aug 2023 14:19:53 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/087a7e62-c067-473d-957c-57fd9ce85245-596.torrent" length="93548090">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/087a7e62-c067-473d-957c-57fd9ce85245.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Welcome from the Free Silicon Foundation, Luca Alloatti, F-Si]]></title>
+            <link>https://peertube.f-si.org/videos/watch/809b47ef-bb70-4a0b-a762-71e8745f3a22</link>
+            <guid>https://peertube.f-si.org/videos/watch/809b47ef-bb70-4a0b-a762-71e8745f3a22</guid>
+            <pubDate>Thu, 24 Aug 2023 13:07:09 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/809b47ef-bb70-4a0b-a762-71e8745f3a22-1080.torrent" length="48380703">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/809b47ef-bb70-4a0b-a762-71e8745f3a22.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[The road to fully open hardware mobile computing, Lukas Hartmann, MNT Research]]></title>
+            <link>https://peertube.f-si.org/videos/watch/448e1166-9993-4f09-a8b5-8ee67e67a7cc</link>
+            <guid>https://peertube.f-si.org/videos/watch/448e1166-9993-4f09-a8b5-8ee67e67a7cc</guid>
+            <pubDate>Thu, 24 Aug 2023 13:06:25 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/448e1166-9993-4f09-a8b5-8ee67e67a7cc-1080.torrent" length="256593382">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/448e1166-9993-4f09-a8b5-8ee67e67a7cc.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to the GoIT project, Rihards Novickis, EDI]]></title>
+            <link>https://peertube.f-si.org/videos/watch/3a00b6c1-f213-4386-b442-455e2704e3b2</link>
+            <guid>https://peertube.f-si.org/videos/watch/3a00b6c1-f213-4386-b442-455e2704e3b2</guid>
+            <pubDate>Thu, 24 Aug 2023 13:04:03 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/3a00b6c1-f213-4386-b442-455e2704e3b2-1080.torrent" length="23990826">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/3a00b6c1-f213-4386-b442-455e2704e3b2.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Coriolis a RTL to GDSII FOSS Design Flow, Jean-Paul Chaput, LIP6, Sorbonne Université]]></title>
+            <link>https://peertube.f-si.org/videos/watch/79265392-8a43-4bfa-9496-3f3553e995f2</link>
+            <guid>https://peertube.f-si.org/videos/watch/79265392-8a43-4bfa-9496-3f3553e995f2</guid>
+            <pubDate>Fri, 28 Jul 2023 19:38:13 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/79265392-8a43-4bfa-9496-3f3553e995f2-1080.torrent" length="298346601">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/79265392-8a43-4bfa-9496-3f3553e995f2.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Learning hardware design in the video game Minecraft]]></title>
+            <link>https://peertube.f-si.org/videos/watch/9184d306-d9e5-490d-b983-9445fe65018b</link>
+            <guid>https://peertube.f-si.org/videos/watch/9184d306-d9e5-490d-b983-9445fe65018b</guid>
+            <pubDate>Fri, 28 Jul 2023 19:41:09 GMT</pubDate>
+            <description><![CDATA[by  Gabriel Doriath Döhler and Constantin Gierczak-Galle, École normale supérieure
+
+Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[by  Gabriel Doriath Döhler and Constantin Gierczak-Galle, École normale supérieure
+
+Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/9184d306-d9e5-490d-b983-9445fe65018b-1080.torrent" length="239074529">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/9184d306-d9e5-490d-b983-9445fe65018b.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Accelerating the Open Source Silicon Ecosystem with Jupyter Notebooks, Johan Euphrosine, Google]]></title>
+            <link>https://peertube.f-si.org/videos/watch/a487700e-93b6-4227-9644-a946a2f73990</link>
+            <guid>https://peertube.f-si.org/videos/watch/a487700e-93b6-4227-9644-a946a2f73990</guid>
+            <pubDate>Fri, 28 Jul 2023 19:41:43 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/a487700e-93b6-4227-9644-a946a2f73990-1080.torrent" length="288592296">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/a487700e-93b6-4227-9644-a946a2f73990.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Learning from GF180 PDK: Best practices for implementing and optimizing KLayout DRC and LVS]]></title>
+            <link>https://peertube.f-si.org/videos/watch/37358e7b-34f5-40c9-8fe9-f13a1825559a</link>
+            <guid>https://peertube.f-si.org/videos/watch/37358e7b-34f5-40c9-8fe9-f13a1825559a</guid>
+            <pubDate>Fri, 28 Jul 2023 19:39:32 GMT</pubDate>
+            <description><![CDATA[by Matthias Köfferlein, KLayout
+
+Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[by Matthias Köfferlein, KLayout
+
+Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/37358e7b-34f5-40c9-8fe9-f13a1825559a-1080.torrent" length="195435350">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/37358e7b-34f5-40c9-8fe9-f13a1825559a.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Teaching Chip Design with Open-Source Tools, Martin Schoeberl, DTU Compute]]></title>
+            <link>https://peertube.f-si.org/videos/watch/19179cc9-b3f4-40d4-ac8d-5b2871d3f9a4</link>
+            <guid>https://peertube.f-si.org/videos/watch/19179cc9-b3f4-40d4-ac8d-5b2871d3f9a4</guid>
+            <pubDate>Fri, 28 Jul 2023 19:40:14 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/19179cc9-b3f4-40d4-ac8d-5b2871d3f9a4-1080.torrent" length="170268891">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/19179cc9-b3f4-40d4-ac8d-5b2871d3f9a4.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Open (and Closed) Source Analog Design with Hdl21 & VLSIR, Dan Fritchman, UC Berkeley]]></title>
+            <link>https://peertube.f-si.org/videos/watch/3aea666b-6285-478d-bb09-98e4365e38a4</link>
+            <guid>https://peertube.f-si.org/videos/watch/3aea666b-6285-478d-bb09-98e4365e38a4</guid>
+            <pubDate>Fri, 28 Jul 2023 16:32:31 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/3aea666b-6285-478d-bb09-98e4365e38a4-1080.torrent" length="178561579">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/3aea666b-6285-478d-bb09-98e4365e38a4.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[KQCircuits - open-source EDA software for designing chips with super conducting qubits, Pavel Smirnov, IQM]]></title>
+            <link>https://peertube.f-si.org/videos/watch/43198016-dd25-4b4f-8101-643bfeb3fc18</link>
+            <guid>https://peertube.f-si.org/videos/watch/43198016-dd25-4b4f-8101-643bfeb3fc18</guid>
+            <pubDate>Fri, 28 Jul 2023 16:31:47 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/43198016-dd25-4b4f-8101-643bfeb3fc18-1080.torrent" length="175460924">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/43198016-dd25-4b4f-8101-643bfeb3fc18.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Naja: project updates and netlist splitting tool, Christophe Alexandre, Naja]]></title>
+            <link>https://peertube.f-si.org/videos/watch/b34f5f2f-c7f3-47c3-9074-71c1bed4bc89</link>
+            <guid>https://peertube.f-si.org/videos/watch/b34f5f2f-c7f3-47c3-9074-71c1bed4bc89</guid>
+            <pubDate>Fri, 28 Jul 2023 16:32:13 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/b34f5f2f-c7f3-47c3-9074-71c1bed4bc89-1080.torrent" length="148322861">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/b34f5f2f-c7f3-47c3-9074-71c1bed4bc89.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Analyzing open-source chip design ecosystem from an environmental sustainability perspective]]></title>
+            <link>https://peertube.f-si.org/videos/watch/73680ce5-dd9e-483c-b6dd-88abcda548c4</link>
+            <guid>https://peertube.f-si.org/videos/watch/73680ce5-dd9e-483c-b6dd-88abcda548c4</guid>
+            <pubDate>Fri, 28 Jul 2023 16:29:48 GMT</pubDate>
+            <description><![CDATA[by David Bol; ICTEAM Institute and UC Louvain
+
+Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[by David Bol; ICTEAM Institute and UC Louvain
+
+Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/73680ce5-dd9e-483c-b6dd-88abcda548c4-1080.torrent" length="590739014">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/73680ce5-dd9e-483c-b6dd-88abcda548c4.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Powered by Open EDA: Applying Apple's Chip-to-Product Design Methods to Satellites, Thomas Parry, SPHERICAL]]></title>
+            <link>https://peertube.f-si.org/videos/watch/605d0d52-b3c3-4f67-8baa-68394073c62a</link>
+            <guid>https://peertube.f-si.org/videos/watch/605d0d52-b3c3-4f67-8baa-68394073c62a</guid>
+            <pubDate>Fri, 28 Jul 2023 15:49:39 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/605d0d52-b3c3-4f67-8baa-68394073c62a-1080.torrent" length="153090066">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/605d0d52-b3c3-4f67-8baa-68394073c62a.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[TinyTapeout - what happened and next steps, Matthew Venn; YosysHQ, ChipFlow]]></title>
+            <link>https://peertube.f-si.org/videos/watch/09faa177-6076-4ebb-a3a2-1c56eae629dc</link>
+            <guid>https://peertube.f-si.org/videos/watch/09faa177-6076-4ebb-a3a2-1c56eae629dc</guid>
+            <pubDate>Fri, 28 Jul 2023 15:48:37 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/09faa177-6076-4ebb-a3a2-1c56eae629dc-1080.torrent" length="190207538">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/09faa177-6076-4ebb-a3a2-1c56eae629dc.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Proof-of-concept for scalable analog blocks using the PDKMaster framework, Staf Verhaegen; Chips4Makers and ChipFlow]]></title>
+            <link>https://peertube.f-si.org/videos/watch/7f7c739f-561f-47ab-b06b-4d068cffdadc</link>
+            <guid>https://peertube.f-si.org/videos/watch/7f7c739f-561f-47ab-b06b-4d068cffdadc</guid>
+            <pubDate>Fri, 28 Jul 2023 15:48:12 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/7f7c739f-561f-47ab-b06b-4d068cffdadc-1080.torrent" length="250768309">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/7f7c739f-561f-47ab-b06b-4d068cffdadc.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Industry-Grade SystemVerilog IPs And The Open Flow: How We Synthesized Iguana, Thomas Benz, ETH Zurich]]></title>
+            <link>https://peertube.f-si.org/videos/watch/ad84c907-d767-4468-a43d-b5cbd4e04bdb</link>
+            <guid>https://peertube.f-si.org/videos/watch/ad84c907-d767-4468-a43d-b5cbd4e04bdb</guid>
+            <pubDate>Fri, 28 Jul 2023 15:48:56 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/ad84c907-d767-4468-a43d-b5cbd4e04bdb-1080.torrent" length="201649411">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/ad84c907-d767-4468-a43d-b5cbd4e04bdb.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Open source Design Flow status and roadmap for IHP BiCMOS technology]]></title>
+            <link>https://peertube.f-si.org/videos/watch/1190102d-2cac-4a58-898b-13660fd04e49</link>
+            <guid>https://peertube.f-si.org/videos/watch/1190102d-2cac-4a58-898b-13660fd04e49</guid>
+            <pubDate>Fri, 28 Jul 2023 15:18:19 GMT</pubDate>
+            <description><![CDATA[by Rene Scholz and Sergei Andreev, IHP Microelectronics
+
+Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[by Rene Scholz and Sergei Andreev, IHP Microelectronics
+
+Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/1190102d-2cac-4a58-898b-13660fd04e49-1080.torrent" length="201373033">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/1190102d-2cac-4a58-898b-13660fd04e49.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Closing The Synthesis Gap - Is Open Source Logic Synthesis About To Beat The Industry? Benjamin Barzen, ABC]]></title>
+            <link>https://peertube.f-si.org/videos/watch/142db9fe-3860-4ffc-8e27-48697dfcf148</link>
+            <guid>https://peertube.f-si.org/videos/watch/142db9fe-3860-4ffc-8e27-48697dfcf148</guid>
+            <pubDate>Fri, 28 Jul 2023 15:15:17 GMT</pubDate>
+            <description><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></description>
+            <content:encoded><![CDATA[Conference program: https://wiki.f-si.org/index.php/FSiC2023]]></content:encoded>
+            <dc:creator>root</dc:creator>
+            <enclosure type="application/x-bittorrent" url="https://peertube.f-si.org/static/torrents/142db9fe-3860-4ffc-8e27-48697dfcf148-1080.torrent" length="118649646">
+            </enclosure>
+            <media:thumbnail url="https://peertube.f-si.org/static/thumbnails/142db9fe-3860-4ffc-8e27-48697dfcf148.jpg" height="110" width="200">
+            </media:thumbnail>
+        </item>
+    </channel>
+</rss>
