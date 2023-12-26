@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dt="http://xsltsl.org/date-time" xmlns:weekdays="." xmlns:months="." xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Software Freedom Podcast</title>
+    <description>The regular podcast about Free Software and ongoing activities hosted by the FSFE</description>
+    <link>https://fsfe.org/news/podcast</link>
+    <language>en</language>
+    <copyright>Copyright (c) Free Software Foundation Europe. Creative Commons BY-SA 4.0</copyright>
+    <managingEditor>press@fsfe.org (FSFE Press Team)</managingEditor>
+    <webMaster>web@lists.fsfe.org (FSFE Webmaster Team)</webMaster>
+    <image>
+      <url>https://fsfe.org/graphics/podcast-logo.png</url>
+      <title>Software Freedom Podcast</title>
+      <width>88</width>
+      <height>31</height>
+      <link>https://fsfe.org/news/podcast</link>
+    </image>
+    <atom:link href="https://fsfe.org/news/podcast.en.rss" rel="self" type="application/rss+xml" title="Software Freedom Podcast (mp3 Audio)"/>
+    <atom:link href="https://fsfe.org/news/podcast-opus.en.rss" rel="alternate" type="application/rss+xml" title="Software Freedom Podcast (opus Audio)"/>
+    <generator>FSFE website build system: podcast.rss.xsl</generator>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Free Software Foundation Europe (FSFE)</itunes:name>
+      <itunes:email>contact@fsfe.org</itunes:email>
+    </itunes:owner>
+    <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:keywords>free software, open source, libre, foss, floss, oss, programming, policy, talk, interview, news, tech, technology, freedom, liberty, fsfe, fsf, foundation</itunes:keywords>
+    <itunes:image href="https://fsfe.org/graphics/podcast-logo.png"/>
+    <itunes:summary>The regular podcast about Free Software and ongoing activities hosted by the FSFE</itunes:summary>
+    <itunes:subtitle>The monthly podcast about Free Software</itunes:subtitle>
+    <itunes:block>false</itunes:block>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>SFP#23: What is Free Software? A Christmas podcast to learn about Free Software</title>
+      <itunes:title>SFP#23: What is Free Software? A Christmas podcast to learn about Free Software</itunes:title>
+      <description>These days are quite special, right? So is our Christmas Software Freedom Podcast episode! In this 23rd episode, the FSFE goes crazy and has fun playing a guessing game with terms related to Free Software. This is the perfect episode for you to learn more about your favourite type of software: Free Software! Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>These days are quite special, right? So is our Christmas Software Freedom Podcast episode! In this 23rd episode, the FSFE goes crazy and has fun playing a guessing game with terms related to Free Software. This is the perfect episode for you to learn more about your favourite type of software: Free Software! Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#23: What is Free Software? A Christmas podcast to learn about Free Software</h1><p>
+These days are quite special, right? So is our Christmas Software Freedom Podcast episode! In this 23rd episode, the FSFE goes crazy and has fun playing a guessing game with terms related to Free Software. This is the perfect episode for you to learn more about your favourite type of software: Free Software! 
+</p><p>Our podcast host, Bonnie Mehring meets with Matthias Kirschner, the FSFE's President, Gabriel Ku Wei Bin, member of the FSFE's legal team, and Tobias Diekershof, the FSFE's System Administrator, to play a little guessing game about Free Software basic terms.
+</p><p>This episode has something for everybody, no matter if you are already part of the Free Software universe or if you just arrived in this world. It is the perfect episode to learn more about Free Software. Share this episode with your family so they finally understand what you are talking about, when you talk about GNU 😉.</p><p>And do not forget to stop the audio and have a guess yourself! ♥♥♥
+</p><p>Show notes</p><ul>
+	<li><a href="https://en.wikipedia.org/wiki/Code_and_Other_Laws_of_Cyberspace">Book by Lawrence Lessig: Code and Other Laws of Cyberspace</a></li> 
+<li><a href="https://fsfe.org/activities/upcyclingandroid/">"FSFE's initiative: Upcycling Android"</a></li>
+<li><a href="https://fsfe.org/activities/upcyclingandroid/howtoupcycle">How to Upcycle your smartphone</a></li>
+<li><a href="https://fsfe.org/activities/ngi/">Next Generation Internet</a></li>
+<li><a href="https://media.fsfe.org/my-library/video-playlists/43045073-4523-4807-bd1b-6c91dcee981c">Learn more about: What is Free Software?</a></li>
+<li><a href="https://fsfe.org/news/newsletter.html">Read more about Free Software in our newsletter.</a></li>
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a donation.</p><p><a class="learn-more" href="https://community.fsfe.org/t/1118">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-23.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-23.en.html</guid>
+      <pubDate>25 Dec 2023 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>What is Free Software? A Christmas podcast to learn about Free Software</itunes:subtitle>
+      <itunes:duration>43:53</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP023.mp3" length="36874024" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Welcome to the podcast"/>
+        <psc:chapter start="02:09" title="What is Free Software? Terminology from the Free Software universe"/>
+        <psc:chapter start="35:50" title="Closing words"/>
+        <psc:chapter start="42:40" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#22: All about "Public Money? Public Code!" with Johannes Näder</title>
+      <itunes:title>SFP#22: All about "Public Money? Public Code!" with Johannes Näder</itunes:title>
+      <description>In our 22nd Software Freedom Podcast episode, we talk with Johannes Näder, Senior Policy Project Manager at the Free Software Foundation Europe (FSFE), about "Public Money? Public Code!". Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>In our 22nd Software Freedom Podcast episode, we talk with Johannes Näder, Senior Policy Project Manager at the Free Software Foundation Europe (FSFE), about "Public Money? Public Code!". Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#22: All about "Public Money? Public Code!" with Johannes Näder</h1><p>
+In our 22nd Software Freedom Podcast episode, we talk with Johannes Näder, Senior Policy Project Manager at the Free Software Foundation Europe (FSFE), about "Public Money? Public Code!".
+</p><p>
+The "Public Money? Public Code!" initiative advocates for public bodies to switch to Free Software instead of spending tons of money on proprietary software. The reasons for "Public Money? Public Code!", how the initiative has evolved over the years, and how the FSFE defines its role as a watchdog within the initiative are discussed with Johannes in this episode.
+</p><p>Johannes has been involved with Free Software since the 1990s. In November 2022, he turned his passion for Free Software into his daily bread and started working for the Free Software Foundation Europe. He is, among other responsibilities, the current coordinator of the FSFE’s "Public Money? Public Code!" initiative.</p><p>If you have not heard of this initiative yet, or if you don’t know how best to get involved, check out our new Software Freedom Podcast episode and learn all about "Public Money? Public Code!".</p><p>Show notes</p><ul>
+<li><a href="https://lists.fsfe.org/mailman/listinfo/fs-kommunen">Mailing list for German municipalities</a></li>
+<li><a href="https://publiccode.eu/en/">"Public Money? Public Code!"</a></li>
+<li><a href="https://publiccode.eu/en/openletter/">Open letter: Publicly funded software has to be Free and Open Source Software.</a></li>
+<li><a href="https://tedective.org/">TEDective: Find out where the money flow goes in the EU</a></li>
+<li><a href="https://fsfe.org/news/2023/news-20230920-01.html">Sovereign workspace openDesk: German Ministry of the Interior provides answers</a></li>
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a donation.</p><p><a class="learn-more" href="https://community.fsfe.org/t/1110">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-22.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-22.en.html</guid>
+      <pubDate>30 Nov 2023 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>All about "Public Money? Public Code!" with Johannes Näder</itunes:subtitle>
+      <itunes:duration>39:14</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP022.mp3" length="32972616" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Welcome to the podcast"/>
+        <psc:chapter start="00:55" title="Interview with Johannes Näder"/>
+        <psc:chapter start="35:17" title="Closing words"/>
+        <psc:chapter start="38:23" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#21: Exploring Software Freedom in European Politics with Lina Ceballos</title>
+      <itunes:title>SFP#21: Exploring Software Freedom in European Politics with Lina Ceballos</itunes:title>
+      <description>Listen to our new Software Freedom Podcast episode with Lina Ceballos. Lina and Bonnie talk about everything related to Free Software in European Politics. Learn more about Lina's work at the Free Software Foundation Europe and how political decisions come to pass in the EU. Discover how best to advocate for Free Software, and especially, what the Interoperable Europe Act is all about and why the Free Software communities need to be on the lookout for the protection of software freedom. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>Listen to our new Software Freedom Podcast episode with Lina Ceballos. Lina and Bonnie talk about everything related to Free Software in European Politics. Learn more about Lina's work at the Free Software Foundation Europe and how political decisions come to pass in the EU. Discover how best to advocate for Free Software, and especially, what the Interoperable Europe Act is all about and why the Free Software communities need to be on the lookout for the protection of software freedom. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#21: Exploring Software Freedom in European Politics with Lina Ceballos</h1><p>
+Listen to our new Software Freedom Podcast episode with Lina Ceballos. Lina and Bonnie talk about everything related to Free Software in European Politics. Learn more about Lina's work at the Free Software Foundation Europe and how political decisions come to pass in the EU. Discover how best to advocate for Free Software, and especially, what the Interoperable Europe Act is all about and why the Free Software communities need to be on the lookout for the protection of software freedom.
+</p><p>
+<a href="https://fsfe.org/about/people/ceballos/ceballos.html">Lina</a> is part of the team working for software freedom at the Free Software Foundation Europe. In her work, she advocates for software freedom at a European level, ensuring that Free Software is considered and protected in new laws. Listen to our 21st episode in which Bonnie Mehring and Lina Ceballos chat about Lina's work for the FSFE. Find out what the Interoperable Europe Act is trying to achieve, how and why Free Software should be considered the first option within it. Learn about the intended Interoperable Europe Board and how you can best help advocate for Free Software.
+</p><p>Read more:</p><ul>
+<li><a href="https://fsfe.org/about/people/ceballos/ceballos.html">Lina Ceballos</a></li>
+<li><a href="https://fsfe.org/news/2023/news-20230719-02.html">EU Parliament intends to widen participation in the Interoperable Europe Board</a></li>
+<li><a href="https://fsfe.org/news/2023/news-20230629-02.html">IEA: EU Parliament advances in strengthening the role of Free Software, yet needs more to improve</a></li>
+<li><a href="https://fsfe.org/news/2023/news-20230623-01.html">Council to exclude relevant stakeholders from contributing to an Interoperable Europe</a></li>
+<li><a href="https://bloodyhealth.gitlab.io/">drip.</a></li>
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a donation.</p><p><a class="learn-more" href="https://community.fsfe.org/t/1056">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-21.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-21.en.html</guid>
+      <pubDate>28 Jul 2023 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Exploring Software Freedom in European Politics with Lina Ceballos</itunes:subtitle>
+      <itunes:duration>41:24</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP021.mp3" length="34780182" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Welcome to the podcast"/>
+        <psc:chapter start="01:25" title="Interview with Lina Ceballos"/>
+        <psc:chapter start="39:20" title="Closing words"/>
+        <psc:chapter start="40:31" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#20: All about Device Neutrality with Lucas Lasota</title>
+      <itunes:title>SFP#20: All about Device Neutrality with Lucas Lasota</itunes:title>
+      <description>Join us for the 20th episode of the Software Freedom Podcast, where Bonnie Mehring and Lucas Lasota discuss Device Neutrality and Router Freedom. They cover the concepts and fundamentals of these initiatives and explain why end-users should have control over their devices. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>Join us for the 20th episode of the Software Freedom Podcast, where Bonnie Mehring and Lucas Lasota discuss Device Neutrality and Router Freedom. They cover the concepts and fundamentals of these initiatives and explain why end-users should have control over their devices. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#20: All about Device Neutrality with Lucas Lasota</h1><p>
+Join us for the 20th episode of the Software Freedom Podcast, where 
+Bonnie Mehring and Lucas Lasota discuss Device Neutrality and Router 
+Freedom. They cover the concepts and fundamentals of these 
+initiatives and explain why end-users should have control over their 
+devices.
+</p><p>
+Lucas Lasota, FSFE Senior Project Manager, has been with the 
+organisation since 2019. In this episode, he discusses the Device 
+Neutrality and Router Freedom initiatives, which aim to empower users to
+ control their digital equipment with free software and end-user control
+ over data.  Router Freedom specifically means the right for 
+ end-users to deploy their own router/modem to access the internet, 
+ making it a key element for open internet.Lucas explains the 
+ historic background of these initiatives,
+ the issues that arise without these standards, and how individuals can 
+ best support them. Join Bonnie and Lucas as they
+ break down these concepts.
+</p><p>
+This is the perfect episode for everybody interested in controlling 
+their devices and access to the internet.
+</p><p>Read more:</p><ul>
+<li><a href="https://survey.fsfe.org/index.php/628449">Survey for Router Freedom in Europe</a></li>
+<li><a href="https://fsfe.org/activities/routers/">Router Freedom</a></li>
+<li><a href="https://fsfe.org/activities/deviceneutrality/">Device Neutrality</a></li>
+<li><a href="https://fsfe.org/news/2023/news-20230313-01.html">Greece adopts Router Freedom</a></li>
+
+</ul><p>
+If you liked this episode and want to support our continuous work for 
+software freedom, please help us with a 
+donation.
+</p><p><a class="learn-more" href="https://community.fsfe.org/t/1017">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-20.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-20.en.html</guid>
+      <pubDate>21 Apr 2023 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>All about Device Neutrality with Lucas Lasota</itunes:subtitle>
+      <itunes:duration>38:55 </itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP020.mp3" length="32692810" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Welcome to the podcast"/>
+        <psc:chapter start="01:10" title="Interview with Lucas Lasota"/>
+        <psc:chapter start="37:47" title="Closing words"/>
+        <psc:chapter start="38:14" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#19: Why we need Free Software on medical devices with Karen Sandler</title>
+      <itunes:title>SFP#19: Why we need Free Software on medical devices with Karen Sandler</itunes:title>
+      <description>For this episode Bonnie Mehring met with Karen Sandler to talk about her relationship with Free Software. Karen depends on a medical device to keep her heart working. This led her to become an advocate for Free Software in medical devices. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>For this episode Bonnie Mehring met with Karen Sandler to talk about her relationship with Free Software. Karen depends on a medical device to keep her heart working. This led her to become an advocate for Free Software in medical devices. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#19: Why we need Free Software on medical devices with Karen Sandler</h1><p>
+For this episode Bonnie Mehring met with Karen Sandler to talk about 
+her relationship with Free Software. Karen depends on a medical device 
+to keep her heart working. This led her to become an advocate for 
+Free Software in medical devices.
+</p><p>
+In her daily life Karen relies on a defibrillator to help her 
+heart work properly. Like many medical devices this defibrillator uses 
+proprietary software. Therefore Karen had to put software into her body 
+over which she has no control in order to let her heart keep working. In 
+this episode Bonnie Mehring talks to Karen about the problems that are 
+occuring with non-free medical devices and why it is important to have 
+Free Software on them. What happens to people when their support ends 
+when the company that manufactures their devices goes bankrupt? And what is the 
+connection with Dick Cheney?</p><p>Listen to Karen and Bonnie talk about the importance of Free Software on medical devices and find out more about 
+Karen's heartwarming story of software freedom.
+</p><p>Read more:</p><ul>
+<li><a href="https://sfconservancy.org/">SFconservancy</a></li>
+<li><a href="https://www.outreachy.org/">Outreachy</a></li>
+<li><a href="https://www.nature.com/immersive/d41586-022-03810-5/index.html">"Abandoned: The human cost of neurotechnology failure" in Nature</a></li>
+<li><a href="https://sfconservancy.org/news/2023/feb/02/karen-honorary-doctorate/">Honorary Doctorate for Karen Sandler</a></li>
+
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a donation.</p><p><a class="learn-more" href="https://community.fsfe.org/t/996">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-19.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-19.en.html</guid>
+      <pubDate>14 Feb 2023 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle> Why we need Free Software on medical devices with Karen Sandler </itunes:subtitle>
+      <itunes:duration>38:36 </itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP019.mp3" length="32432992" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Welcome to the podcast"/>
+        <psc:chapter start="01:14" title="Interview with Karen Sandler"/>
+        <psc:chapter start="37:16" title="Closing words"/>
+        <psc:chapter start="37:59" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#18: IT-Security from a cryptographer's point of view with Cryptie</title>
+      <itunes:title>SFP#18: IT-Security from a cryptographer's point of view with Cryptie</itunes:title>
+      <description>A cryptographer and privacy specialist Amandine Jambert, a.k.a. Cryptie, is our guest in the 18th Software Freedom Podcast episode. With her experience, Cryptie is the perfect person to tackle some basics about Security in Free Software. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>A cryptographer and privacy specialist Amandine Jambert, a.k.a. Cryptie, is our guest in the 18th Software Freedom Podcast episode. With her experience, Cryptie is the perfect person to tackle some basics about Security in Free Software. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#18: IT-Security from a cryptographer's point of view with Cryptie</h1><p>
+A cryptographer and privacy specialist Amandine Jambert, a.k.a. Cryptie, is our guest in the 18th Software Freedom Podcast episode. 
+With her experience, Cryptie is the perfect person to tackle some basics about Security in Free Software.
+</p><p>
+<a href="https://wiki.fsfe.org/Supporters/cryptie">Cryptie</a> has been 
+involved with Free Software for around 20 years now and has been a 
+volunteer for the FSFE for 10 years. Together Cryptie and Bonnie Mehring 
+discuss the basics of cryptography and discover what a privacy 
+specialist is. They then move on to the basics of IT-Security and talk 
+about prejudices against the security of Free Software. If you have 
+wondered what is needed to make Software more secure this is the perfect 
+episode for you to start with this topic and learn about the basics of 
+IT-Security.
+</p><p>Read more:</p><ul>
+<li><a href="https://wiki.fsfe.org/Supporters/cryptie">Amandine "cryptie" Jambert</a></li>
+</ul><p>
+If you liked this episode and want to support our continuous work for 
+software freedom, please help us with a 
+donation.
+</p><p><a class="learn-more" href="https://community.fsfe.org/t/964">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-18.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-18.en.html</guid>
+      <pubDate>22 Dec 2022 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle> IT-Security from a cryptographers point of view with Cryptie</itunes:subtitle>
+      <itunes:duration>27:20</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP018.mp3" length="22963186" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Welcome to the podcast"/>
+        <psc:chapter start="00:55" title="Interview with Amandine &quot;Cryptie&quot; Jambert"/>
+        <psc:chapter start="25:07" title="Closing words"/>
+        <psc:chapter start="26:24" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#17: Citizen participation through Free Software with Petter Joelson</title>
+      <itunes:title>SFP#17: Citizen participation through Free Software with Petter Joelson</itunes:title>
+      <description>In this 17th episode of the Software Freedom Podcast Matthias Kirschner and Petter Joelson uncover how Free Software can be a tool for citizens to actively participate in their local community. Petter invites you into the world of Decidim and explains what citizen participation should look like. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>In this 17th episode of the Software Freedom Podcast Matthias Kirschner and Petter Joelson uncover how Free Software can be a tool for citizens to actively participate in their local community. Petter invites you into the world of Decidim and explains what citizen participation should look like. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#17: Citizen participation through Free Software with Petter Joelson</h1><p>
+In this 17th episode of the Software Freedom Podcast Matthias Kirschner and Petter Joelson uncover how Free Software can be a tool for citizens to actively participate in their local community. Petter invites you into the world of Decidim and explains what citizen participation should look like.
+</p><p>
+Petter Joelson is the director of <a href="https://digidemlab.org/">Digidem Lab</a>, a Swedish NGO that works on improving citizen participation according to the UN Global Goals for Sustainable Development. One of the tools they promote and work with is the Free Software participation platform <a href="https://decidim.org/">Decidim</a>. Decidim was originally developed by the city of Barcelona and is today widely used. With this episode the Software Freedom Podcast invites its listeners to dive into the world of citizen participation, how it could be done, what  hurdles are on the way, and – in line with our <a href="https://publiccode.eu">"Public Money? Public Code!"</a> campaign – how publicly financed software can help administrations across Europe. 
+</p><p>Read more:</p><ul>
+<li><a href="https://publiccode.eu">"Public Money? Public Code!"</a></li>
+<li><a href="https://digidemlab.org">Digidem Lab</a></li>
+<li><a href="https://decidim.org/">Decidim</a></li>
+
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a donation.</p><p><a class="learn-more" href="https://community.fsfe.org/t/916">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-17.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-17.en.html</guid>
+      <pubDate>27 Oct 2022 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle> Citizen participation through Free Software with Petter Joelson </itunes:subtitle>
+      <itunes:duration>31:28 </itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP017.mp3" length="26438569" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Welcome to the podcast"/>
+        <psc:chapter start="01:12" title="Interview with Petter Joelson"/>
+        <psc:chapter start="30:43" title="Closing words"/>
+        <psc:chapter start="30:53" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#16: Free Software in France with Hugo Roy</title>
+      <itunes:title>SFP#16: Free Software in France with Hugo Roy</itunes:title>
+      <description>In this episode of the Software Freedom Podcast, Bonnie Mehring speaks with Hugo Roy about his long involvement with the FSFE. Hugo is also very active in the French Free Software community and gives us an overview of the standing of Free Software in France. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>In this episode of the Software Freedom Podcast, Bonnie Mehring speaks with Hugo Roy about his long involvement with the FSFE. Hugo is also very active in the French Free Software community and gives us an overview of the standing of Free Software in France. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#16: Free Software in France with Hugo Roy</h1><p>
+  In this episode of the Software Freedom Podcast, Bonnie Mehring speaks with Hugo Roy about his long involvement with the FSFE. Hugo is also very active in the French Free Software community and gives us an overview of the standing of Free Software in France. 
+</p><p>
+Hugo has been a volunteer for the FSFE for over 10 years now. Have you ever wondered what people inside the FSFE think about the organisation  and how they see its development? In this podcast episode, Hugo and Bonnie talk about Hugo’s experiences as an intern and as a volunteer. Hugo has been a long-time activist for Free Software in France. Hugo and Bonnie talk about the understanding of Free Software in the public sphere and how it developed in recent years.  This episode of the Software Freedom Podcast  gives some insights into the framework of Free Software in France.
+</p><p>Read more:</p><ul>
+  <li><a href="https://fsfe.org/about/people/roy/roy.html">About Hugo Roy</a></li>
+  <li><a href="https://fsfe.org/activities/ln/ln.html">The FSFE's legal network</a></li>
+    <li><a href="https://joinup.ec.europa.eu/sites/default/files/inline-files/OSS%20Country%20Intelligence%20Report_FR_0.pdf">OSOR report about France</a></li>
+  <li><a href="https://www.data.gouv.fr/en/organizations/etalab/">Etalab France</a></li>
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a donation.</p><p><a class="learn-more" href="https://community.fsfe.org/t/897">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-16.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-16.en.html</guid>
+      <pubDate>09 Sep 2022 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Free Software in France with Hugo Roy </itunes:subtitle>
+      <itunes:duration>35:27</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP016.mp3" length="29788146" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Welcome to the podcast"/>
+        <psc:chapter start="01:15" title="Interview with Hugo Roy"/>
+        <psc:chapter start="34:38" title="Closing words"/>
+        <psc:chapter start="34:47" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#15: All about Upcycling Android</title>
+      <itunes:title>SFP#15: All about Upcycling Android</itunes:title>
+      <description>In November 2021 the FSFE has launched the new campaign "Upcycling Android". If you haven't already upcycled your phone or you are curious to learn more about the campaign listen to our new Software Freedom Podcast episode with the campaigns manager Erik Albers. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>In November 2021 the FSFE has launched the new campaign "Upcycling Android". If you haven't already upcycled your phone or you are curious to learn more about the campaign listen to our new Software Freedom Podcast episode with the campaigns manager Erik Albers. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#15: All about Upcycling Android</h1><p>In November 2021 the FSFE has launched the new campaign "Upcycling Android". If you haven't already upcycled your phone or you are curious to learn more about the campaign listen to our new Software Freedom Podcast episode with the campaigns manager Erik Albers.</p><p>Erik Albers has been employed at the FSFE for 10 years now. Since Erik found a connection between Free Software and sustainability, he hasn't stopped working on getting the word out about software sustainability through software freedom. But how is this connected to upcycling Android and installing a Free Software Operating System on your phone? Well, there is only one way to find out: By listening to our new Software Freedom Podcast episode. You will learn all about the importance of upcycling your own phone as well as gain a deeper insight into the "Upcycling Android" campaign.</p><p>Read more:</p><ul>
+
+<li><a href="https://fsfe.org/freesoftware/">What is Free Software?</a></li>
+
+<li><a href="https://fsfe.org/activities/upcyclingandroid/">The Upcycling Android Campaign</a></li>
+
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a donation.</p><p><a class="learn-more" href="https://community.fsfe.org/t/869">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-15.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-15.en.html</guid>
+      <pubDate>17 Jun 2022 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>SFP#15: All about Upcycling Android</itunes:subtitle>
+      <itunes:duration>34:59</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP015.mp3" length="29389514" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Intro"/>
+        <psc:chapter start="00:14" title="Welcome to the Podcast"/>
+        <psc:chapter start="01:14" title="Interview with Erik Albers"/>
+        <psc:chapter start="33:46" title="Closing words"/>
+        <psc:chapter start="34:12" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#14: The world of mesh networking with Elektra Wagenrad</title>
+      <itunes:title>SFP#14: The world of mesh networking with Elektra Wagenrad</itunes:title>
+      <description>With this episode the Software Freedom Podcast opens the door to the fascinating and sometimes complex world of mesh networking. And who better than Elektra Wagenrad can take us on this journey? Elektra is one of the original developers of the B.A.T.M.A.N. protocol and of the Mesh Potato project. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>With this episode the Software Freedom Podcast opens the door to the fascinating and sometimes complex world of mesh networking. And who better than Elektra Wagenrad can take us on this journey? Elektra is one of the original developers of the B.A.T.M.A.N. protocol and of the Mesh Potato project. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#14: The world of mesh networking with Elektra Wagenrad</h1><p>
+With this episode the Software Freedom Podcast opens the door to the fascinating and sometimes complex world of mesh networking. And who better than Elektra Wagenrad can take us on this journey? Elektra is one of the original developers of the B.A.T.M.A.N. protocol and of the Mesh Potato project.
+</p><p>In our 14th Software Freedom Podcast episode Matthias Kirschner talks with our guest, Elektra Wagenrad, about the origins of Freifunk, the B.A.T.M.A.N. protocol, and the Mesh Potato project. If you are new to the world of mesh networking this episodes is an easy entrance to it. Elektra not only explains the theory behind the protocols but also dives deeper into the philosophical idea of it. In this context, Matthias and Elektra also touch on the difficult topic of limiting the use of Free Software, using the example of the former ban on the use of the B.A.T.M.A.N. protocol for military activities. Last but not least they also discuss the EU’s <a href="https://fsfe.org/activities/radiodirective/">Radio Equipment Directive</a> and the FSFE's <a href="https://fsfe.org/activities/routers/routers.html">Router Freedom activity</a>.</p><p>With this episode, the Software Freedom Podcast has produced an easy to follow and easy to understand podcast for everybody who is interested in mesh networking. Join us on our journey through this fascinating technical and philosophical world and listen to Elektra and Matthias as they tell the story with its ups and downs. 
+</p><p>If you clicked on the image of Elektra Wagenrad to come to this page, this image is licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0">CC-BY-SA 3.0</a> and created by Andrea Behrendt.</p><p>Read more:</p><ul>
+<li><a href="https://fsfe.org/freesoftware/">What is Free Software?</a></li>
+<li><a href="https://freifunk.net/">Freifunk (DE)</a></li>
+<li><a href="https://www.open-mesh.org/">Open-Mesh Project</a></li>
+<li><a href="https://villagetelco.org/mesh-potato/">The "Mesh Potato" project</a></li>
+<li><a href="https://fsfe.org/activities/radiodirective/radiodirective.html">FSFE’s activity on Radio Lockdown</a></li>
+<li><a href="https://fsfe.org/activities/routers/routers.html">FSFE's Router Freedom activity</a></li>
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a donation.</p><p><a class="learn-more" href="https://community.fsfe.org/t/818">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-14.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-14.en.html</guid>
+      <pubDate>22 Mar 2022 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>SFP#14: The world of mesh networking with Elektra Wagenrad</itunes:subtitle>
+      <itunes:duration>39:17</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP014.mp3" length="14142805" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Intro"/>
+        <psc:chapter start="00:14" title="Welcome to the Podcast"/>
+        <psc:chapter start="01:12" title="Interview with Elektra Wagenrad"/>
+        <psc:chapter start="38:23" title="Closing words"/>
+        <psc:chapter start="38:35" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#13: Free Software game "0 A.D. Empires Ascendant" with Stanislas Dolcini</title>
+      <itunes:title>SFP#13: Free Software game "0 A.D. Empires Ascendant" with Stanislas Dolcini</itunes:title>
+      <description>The upcoming "I Love Free Software Day" will focus on Free Software Games. One of the most famous Free Software games is "0 A.D.: Empires Ascendant". In this episode Bonnie Mehring talks with Stanislas Dolcini, the project leader of 0 A.D., about the game itself, the project, and how the game became Free Software. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>The upcoming "I Love Free Software Day" will focus on Free Software Games. One of the most famous Free Software games is "0 A.D.: Empires Ascendant". In this episode Bonnie Mehring talks with Stanislas Dolcini, the project leader of 0 A.D., about the game itself, the project, and how the game became Free Software. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#13: Free Software game "0 A.D. Empires Ascendant" with Stanislas Dolcini</h1><p>
+The upcoming "I Love Free Software Day" will focus on Free Software Games. One of the most famous Free Software games is "0 A.D.: Empires Ascendant". In this episode Bonnie Mehring talks with Stanislas Dolcini, the project leader of 0 A.D., about the game itself, the project, and how the game became Free Software.
+</p><p>
+This podcast episode takes you on a journey through the game's development and its history of becoming one of the most famous Free Software games. You can also learn about how to participate and contribute to 0 A.D. Discover together with Stanislas and Bonnie how the community behind one of the best known Free Software games works, where support is needed, and the different types of developers and contributors. Bonnie and Stanislas also tell the success story of releasing 0 A.D. under a Free Software licence and talk about the positive side of developing a Free Software game.
+</p><p>Read more:</p><ul>
+
+<li><a href="https://fsfe.org/activities/ilovefs">I Love Free Software Day</a></li>
+
+<li><a href="https://fsfe.org/freesoftware/">What is Free Software?</a></li>
+
+<li><a href="https://play0ad.com/">0 A.D. Empires Ascendant</a></li>
+
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a <a href="https://my.fsfe.org/donate/">donation</a>.</p><p>If you clicked on the image of the "Kush City Center" to come to this page, this image is licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA 3.0</a> and created by <a href="https://play0ad.com/wp-content/gallery/screenshots/Kushcitycenter.jpg">0 A.D. Empires Ascendant, Wildfire Games</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/794">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-13.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-13.en.html</guid>
+      <pubDate>27 Jan 2022 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>SFP#13: I Love Free Software Day Gaming event with 0 A.D. Empires Ascendant </itunes:subtitle>
+      <itunes:duration>32:36</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP013.mp3" length="7824785" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Intro"/>
+        <psc:chapter start="00:14" title="Welcome to the Podcast"/>
+        <psc:chapter start="00:37" title="Interview with Stanislas Dolcini"/>
+        <psc:chapter start="31:25" title="Closing words"/>
+        <psc:chapter start="31:41" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#12: Enforcement of the GNU GPL with Till Jaeger</title>
+      <itunes:title>SFP#12: Enforcement of the GNU GPL with Till Jaeger</itunes:title>
+      <description>With our 12th episode of the Software Freedom Podcast we dig into the history and the beginning of enforcing Free Software licences, especially the GNU General Public License (GNU GPL). Together with Till Jaeger, who has been working alongside Harald Welte for enforcing the GNU GPL in the first court cases in Germany, we talk about the long way we have come since those early days. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>With our 12th episode of the Software Freedom Podcast we dig into the history and the beginning of enforcing Free Software licences, especially the GNU General Public License (GNU GPL). Together with Till Jaeger, who has been working alongside Harald Welte for enforcing the GNU GPL in the first court cases in Germany, we talk about the long way we have come since those early days. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#12: Enforcement of the GNU GPL with Till Jaeger</h1><p>
+    With our 12th episode of the Software Freedom Podcast we dig into the
+    history and the beginning of enforcing Free Software licences, especially
+    the GNU General Public License (GNU GPL). Together with Till Jaeger, who has
+    been working alongside Harald Welte for enforcing the GNU GPL in the first
+    court cases in Germany, we talk about the long way we have come since those
+    early days.
+  </p><p>
+    Our guest, Till Jaeger, discusses with our host, Matthias Kirschner, how the
+    decision to go to court and stand up for the rights of copyleft licences
+    came about. Till and Matthias tell an exciting story about those first steps
+    on this new legal ground. They also highlight the short term and long term
+    impacts of the first court decision in favour of Free Software. For example,
+    how more and more information about licensing and especially using a Free
+    Software licence became available and publicly known. But also how
+    workshops, like the FSFE's yearly <a href="https://fsfe.org/activities/ln/llw.html">Legal
+    and Licensing Workshop</a>, were created for those interested in using and
+    being compliant to Free Software licences.
+  </p><p>Discover together with us the changes that have come from those first steps
+    to the acceptance of Free Software in companies. Till has been involved with
+    Free Software licensing for a long time and provides a deep and well rounded
+    insight into the history of enforcing the GNU GPL. To give this episode a
+    perfect ending, Matthias and Till also talk about some of the most common
+    misunderstandings of Free Software licensing. This is the perfect episode
+    for everyone to get an insight into one of the most important events in the
+    history of enforcing Free Software licences.
+  </p><p>Read more:</p><ul>
+    <li>
+      <a href="https://fsfe.org/freesoftware/">What is Free Software?</a></li>
+    <li>
+      <a href="https://fsfe.org/activities/ln/llw.html">The Free Software Legal and Licensing
+        Workshop</a>
+      </li>
+    <li>
+      <a href="https://fsfe.org/activities/ln/ln.html">FSFE's Legal Network</a></li>
+    <li>
+      <a href="https://gpl-violations.org/">The gpl-violations.org project</a>
+    </li>
+    <li>
+      <a href="https://fsfe.org/news/podcast/episode-3.html">SFP#3 about Free
+        Software mobile phone communication with Harald Welte</a>
+    </li>
+  </ul><p>
+    If you liked this episode and want to support our continuous work for
+    software freedom, please help us with a <a href="https://my.fsfe.org/donate/">donation</a>.
+    </p><p><a class="learn-more" href="https://community.fsfe.org/t/743">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-12.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-12.en.html</guid>
+      <pubDate>22 Sep 2021 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>SFP#12: Enforcement of the GNU GPL with Till Jaeger</itunes:subtitle>
+      <itunes:duration>40:31</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP012.mp3" length="34048951" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Intro"/>
+        <psc:chapter start="00:14" title="Welcome to the Podcast"/>
+        <psc:chapter start="01:13" title="Interview with Till Jaeger"/>
+        <psc:chapter start="39:06" title="Closing words"/>
+        <psc:chapter start="39:37" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#11: REUSE Booster and our update on REUSE with Max Mehl</title>
+      <itunes:title>SFP#11: REUSE Booster and our update on REUSE with Max Mehl</itunes:title>
+      <description>Max Mehl and Bonnie Mehring talk about the REUSE initiative and the newly launched REUSE Booster programme. This 11th episode of the Software Freedom Podcast is the perfect match for you if you are interested in Free Software licensing and curious about how REUSE and its tools make that easier for developers and users. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>Max Mehl and Bonnie Mehring talk about the REUSE initiative and the newly launched REUSE Booster programme. This 11th episode of the Software Freedom Podcast is the perfect match for you if you are interested in Free Software licensing and curious about how REUSE and its tools make that easier for developers and users. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#11: REUSE Booster and our update on REUSE with Max Mehl</h1><p>
+Max Mehl and Bonnie Mehring talk about the REUSE initiative and the newly launched REUSE Booster programme. This 11th episode of the Software Freedom Podcast is the perfect match for you if you are interested in Free Software licensing and curious about how REUSE and its tools make that easier for developers and users.
+</p><p>For this episode we have invited Max Mehl. This is the first time since the launch of the Software Freedom Podcast that a FSFE staff member joins the podcast. Max Mehl, an FSFE programme manager, has been with the FSFE since 2011 and has worked on numerous campaigns. These include the <a href="https://fsfe.org/activities/ilovefs/">"I Love Free Software Day"</a>, <a href="https://fsfe.org/activities/android/">"Free Your Android"</a>, <a href="https://fsfe.org/activities/routers/">"Router Freedom"</a>, and the <a href="https://publiccode.eu">"Public Money? Public Code!"</a> campaign, just to name a few. Nowadays, Max Mehl is also the person responsible for the <a href="https://reuse.software/">REUSE initiative</a> and one of the REUSE tool's maintainers.</p><p>REUSE is a standard for modern licensing of Free Software projects. It is widely adopted and has been implemented by large Free Software communities like KDE. In this episode Bonnie Mehring and Max Mehl talk about REUSE itself and its tools, the development of the REUSE community and the newly launched <a href="https://fsfe.org/news/2021/news-20210609-01.html">REUSE Booster</a> programme, which is the perfect opportunity for an easy entrance to adopting the REUSE standard for your software project. With this episode Bonnie Mehring and Max Mehl provide a nice and easy entrance to the very complex world of software licensing. </p><p>Read more:</p><ul>
+  <li><a href="https://fsfe.org/news/2021/news-20210609-01.html">REUSE Booster helps Free Software projects with licensing and copyright</a></li>
+  <li><a href="https://reuse.software/">REUSE campaign</a></li>
+  <li><a href="https://fsfe.org/about/people/mehl/mehl.html">Max Mehl</a></li>
+  <li><a href="https://fsfe.org/news/podcast/episode-4.html">SFP#4 about REUSE with Carmen Bianca Bakker</a></li>
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a <a href="https://my.fsfe.org/donate/">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/706">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-11.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-11.en.html</guid>
+      <pubDate>02 Jul 2021 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>REUSE Booster</itunes:subtitle>
+      <itunes:duration>32:11</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP011.mp3" length="27042776" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="0:00" title="Welcome to the podcast"/>
+        <psc:chapter start="0:27" title="Introduction to "/>
+        <psc:chapter start="1:05" title="Interview with Max Mehl"/>
+        <psc:chapter start="31:20" title="Closing words"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#10: How to support Free Software and a sustainable digital infrastructure</title>
+      <itunes:title>SFP#10: How to support Free Software and a sustainable digital infrastructure</itunes:title>
+      <description>In our 10th episode of the Software Freedom Podcast we talk with Elisa Lindinger from Superrr Lab. Together we discuss problems faced by Free Software projects and how to tackle them. In a broader frame we discover what would be needed for a more sustainable digital infrastructure and talk about the work Elisa does for this aim. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>In our 10th episode of the Software Freedom Podcast we talk with Elisa Lindinger from Superrr Lab. Together we discuss problems faced by Free Software projects and how to tackle them. In a broader frame we discover what would be needed for a more sustainable digital infrastructure and talk about the work Elisa does for this aim. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#10: How to support Free Software and a sustainable digital infrastructure</h1><p>
+In our 10th episode of the Software Freedom Podcast we talk with Elisa Lindinger from Superrr Lab. Together we discuss problems faced by Free Software projects and how to tackle them. In a broader frame we discover what would be needed for a more sustainable digital infrastructure and talk about the work Elisa does for this aim.
+</p><p>
+For this episode Matthias Kirschner and Bonnie Mehring talk with Elisa Lindinger about the survey <a href="https://recommendations.implicit-development.org/">Roadwork ahead</a>, which evaluates the needs of those working for software freedom and a digital infrastructure for the public. What concrete actions are needed to create sustainable Free Software communities and projects? How could developers spend more time on coding and not so much time on organising events and finances, in short how could community management be better organised? And how could those who do volunteer work for open infrastructure and Free Software receive the support they need? Those are just some of the questions discussed in the podcast. All of those problems are brought into a broader sense of this topic, when we talk about how our digital civil society can be more sustainable. We discuss the four claims Elisa and her team developed and advocate for:</p><ol>
+<li>Digital civil society needs to be part of political discussions about digital policy,</li>
+<li>New methods are needed of support and funding,</li>
+<li><a href="https://publiccode.eu">"Public Money? Public Code!"</a> should be a guiding principle for public procurements and Open Data, Open Access and Open Source should be the base for public contracts,</li>
+<li>A commitment for long-time support of  widely-used software, libraries and protocols is needed to ensure their maintenance.</li> 
+</ol><p>Together, we discuss what a sustainable digital civil society can look like and what is still needed for this aim to be reached. This episode provides knowledge and insights for all of you who want to support Free Software and create a long-lasting digital society.</p><p>Read more:</p><ul>
+ <li><a href="https://fsfe.org/freesoftware/">What is Free Software?</a></li>
+ <li><a href="https://recommendations.implicit-development.org/">Report: Roadwork ahead</a></li>
+ <li><a href="https://digitalezivilgesellschaft.org/en">Learning from the crisis: empower civil society organisations!</a></li>
+ <li><a href="https://superrr.net/">Superrr Lab</a></li>
+ <li><a href="https://fsfe.org/activities/ngi/ngi.html">Next Generation Internet Zero Initiative (NGI0)</a></li>
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a <a href="https://my.fsfe.org/donate/">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/645">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-10.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-10.en.html</guid>
+      <pubDate>07 Apr 2021 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>How to support Free Software and a sustainable digital infrastructure</itunes:subtitle>
+      <itunes:duration>37:28</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP010.mp3" length="31480724" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Intro"/>
+        <psc:chapter start="00:33" title="Welcome to the Podcast"/>
+        <psc:chapter start="01:13" title="Interview with Elisa Lindinger"/>
+        <psc:chapter start="35:15" title="Closing words"/>
+        <psc:chapter start="36:48" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#9: I Love Free Software Day</title>
+      <itunes:title>SFP#9: I Love Free Software Day</itunes:title>
+      <description>For this episode of the Software Freedom Podcast we talk about the background of the "I Love Free Software Day" and how it all began 11 years ago. Discover together with Bonnie Mehring why Free Software developers, advocates, activists and contributors think this special day is so important for Free Software. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>For this episode of the Software Freedom Podcast we talk about the background of the "I Love Free Software Day" and how it all began 11 years ago. Discover together with Bonnie Mehring why Free Software developers, advocates, activists and contributors think this special day is so important for Free Software. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#9: I Love Free Software Day</h1><p>
+For this episode of the Software Freedom Podcast we talk about the background of the "I Love Free Software Day" and how it all began 11 years ago. Discover together with Bonnie Mehring why Free Software developers, advocates, activists and contributors think this special day is so important for Free Software.
+</p><p>
+In this ninth episode, Bonnie Mehring and Matthias Kirschner cover one of the oldest FSFE campaigns: "I Love Free Software Day". Together, they explore the early days of the campaign and dive into the many special moments it has provoked. For this episode Bonnie has invited prominent members of the Free Software community to share their thoughts on the importance of saying thank you to Free Software contributors. These include Lydia Pintscher from KDE, Greg Kroah-Hartmann from the Linux Foundation, Florian Effenberger from The Document Foundation, Miriam Ballhausen from the FSFE's Legal Network, Pamela Chestek also from the Legal Network and member of the OSI Board, Polina Malaja from the FSFE's CARE Team and CENTR, and Greg Farough from the Free Software Foundation.
+</p><p>Read more:</p><ul>
+ <li><a href="https://fsfe.org/freesoftware/">What is Free Software?</a></li>
+ <li><a href="https://fsfe.org/activities/ilovefs/">I Love Free Software Day</a></li>
+ <li><a href="https://download.fsfe.org/campaigns/ilovefs/share-pics/">Join "I Love Free Software Day" by creating your own share-pic</a></li>
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a <a href="https://my.fsfe.org/donate/">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/601">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-9.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-9.en.html</guid>
+      <pubDate>11 Feb 2021 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>I Love Free Software Day</itunes:subtitle>
+      <itunes:duration>28:03</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP009.mp3" length="23575120" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Intro"/>
+        <psc:chapter start="00:33" title="Welcome to the Podcast"/>
+        <psc:chapter start="00:53" title="I Love Free Software Day - Background"/>
+        <psc:chapter start="11:08" title="The importance of I Love Free Software Day"/>
+        <psc:chapter start="19:57" title="Thank you"/>
+        <psc:chapter start="26:25" title="Closing words"/>
+        <psc:chapter start="27:22" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#8: How to tell my mother that Free Software can cost money?</title>
+      <itunes:title>SFP#8: How to tell my mother that Free Software can cost money?</itunes:title>
+      <description>In this Software Freedom Podcast episode Bonnie Mehring and Matthias Kirschner talk about the monetary costs of Free Software. On the example of a conversation Bonnie had with her mother, both discover ways of explaining the world of Free Software and how to answer common questions and misunderstandings about software freedom. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>In this Software Freedom Podcast episode Bonnie Mehring and Matthias Kirschner talk about the monetary costs of Free Software. On the example of a conversation Bonnie had with her mother, both discover ways of explaining the world of Free Software and how to answer common questions and misunderstandings about software freedom. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#8: How to tell my mother that Free Software can cost money?</h1><p>
+In this Software Freedom Podcast episode Bonnie Mehring and Matthias Kirschner talk about the monetary costs of Free Software. On the example of a conversation Bonnie had with her mother, both discover ways of explaining the world of Free Software and how to answer common questions and misunderstandings about software freedom.
+</p><p>
+For this episode we talk about why Free Software can cost money. Bonnie Mehring and Matthias Kirschner discuss the topics: How can I pay for Free Software and why is it important to pay and thereby support Free Software? What are the different models of earning money with Free Software and where is the difference of earning money as an individual or as a company. Throughout this conversation both explain the concept of Free Software and talk about some of the most common questions. This is the perfect episode for explaining to your loved ones what Free Software is.
+</p><p>Read more:</p><ul>
+  <li><a href="https://fsfe.org/freesoftware/">What is Free Software?</a></li>
+  <li><a href="https://k7r.eu/there-is-no-free-software-company-but/">There is no Free Software company - But!</a></li>
+  <li><a href="http://www.dwheeler.com/essays/commercial-floss.html">Free-Libre / Open Source Software (FLOSS) is Commercial Software</a></li>
+  <li><a href="https://www.youtube.com/watch?v=tCDE3gNAP08">The core values of software freedom</a></li>
+  <li><a href="https://fsfe.org/activities/ngi/ngi.html">Next Generation Internet</a></li>
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a <a href="https://my.fsfe.org/donate/">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/553">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-8.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-8.en.html</guid>
+      <pubDate>04 Dec 2020 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Can Free Software cost money?</itunes:subtitle>
+      <itunes:duration>26:18</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP008.mp3" length="22108531" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="0:00" title="Intro"/>
+        <psc:chapter start="01:07" title="Welcome to the Podcast"/>
+        <psc:chapter start="01:58" title="Can Free Software cost money?"/>
+        <psc:chapter start="25:12" title="Closing words"/>
+        <psc:chapter start="25:22" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#7 Artificial intelligence as Free Software with Vincent Lequertier</title>
+      <itunes:title>SFP#7 Artificial intelligence as Free Software with Vincent Lequertier</itunes:title>
+      <description>For the seventh episode of our Software Freedom Podcast we talk with Vincent Lequertier about transparency, fairness, and accessibility as crucial criteria for artificial intelligence (AI) and why it is important for our society to release AI software under a Free Software license. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>For the seventh episode of our Software Freedom Podcast we talk with Vincent Lequertier about transparency, fairness, and accessibility as crucial criteria for artificial intelligence (AI) and why it is important for our society to release AI software under a Free Software license. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#7 Artificial intelligence as Free Software with Vincent Lequertier</h1><p>
+For the seventh episode of our Software Freedom Podcast we talk with Vincent Lequertier about transparency, fairness, and accessibility as crucial criteria for artificial intelligence (AI) and why it is important for our society to release AI software under a Free Software license.
+</p><p>
+Our guest for the seventh episode of the Software Freedom Podcast is Vincent Lequertier. Vincent is a member of the Free Software Foundation Europe and is researching AI in the health care sector. Together we discuss the use and development of artificial intelligence from a Free Software perspective. Vincent explains what AI actually is and why it is important for our society to release AI software under a Free Software license. We discuss why the criteria of transparency, fairness and accessibility are important when working with artificial intelligence and how they relate to Free Software. Finally, we also discover what challenges AI is facing in the future and whether we should be afraid of the increasing use of this technology in our daily lives.
+</p><p>Read more:</p><ul>
+  <li><a href="https://fsfe.org/about/people/interviews/lequertier.html">Vincent Lequertier interview</a></li>
+  <li><a href="https://media.fsfe.org/w/654pMVCkcxbsUSszJT4WMD">"Putting artificial intelligence back into people's hands"</a>, Vincent's talk at FOSDEM</li>
+  <li><a href="https://media.fsfe.org/w/uGLQjmJetperRNQ2yAQdjM">"Upcoming Challenges in artificial intelligence Research and Development"</a>, an OW2online20 talk by Vincent</li>
+  <li><a href="https://www.tensorflow.org/">TensorFlow</a>, an end-to-end open source machine learning library</li>
+  <li><a href="https://keras.io/">Keras</a>, an easy-to-use API built on top of TensorFlow</li>
+  <li><a href="https://pytorch.org/">Pytorch</a>, an open source machine learning framework</li>
+  <li><a href="https://xkcd.com/1450/">AI-Box Experiment (xkcd)</a></li>
+  <li><a href="https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf">White paper: On artificial intelligence - A European approach to excellence and trust (European Commission)</a></li>
+  <li><a href="https://www.washingtonpost.com/health/2019/10/24/racial-bias-medical-algorithm-favors-white-patients-over-sicker-black-patients/">Article about racial bias in healthcare algorithms</a></li>
+  <li><a href="https://escholarship.org/uc/item/6h92v832">Scientific paper about racial bias in healthcare algorithms</a></li>
+  
+  
+</ul><p>If you liked this episode and want to support our continuous work for software freedom, please help us with a <a href="https://my.fsfe.org/donate?referrer=sfp7">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/514">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-7.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-7.en.html</guid>
+      <pubDate>25 Sep 2020 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Interview with Vincent Lequertier</itunes:subtitle>
+      <itunes:duration>34:51</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP007.mp3" length="29279973" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="00:00" title="Welcome to the podcast"/>
+        <psc:chapter start="00:33" title="Introduction of Vincent Lequertier"/>
+        <psc:chapter start="01:08" title="Interview with Vincent Lequertier"/>
+        <psc:chapter start="34:10" title="Closing words"/>
+        <psc:chapter start="34:37" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#6 Copyright enforcement with Miriam Ballhausen</title>
+      <itunes:title>SFP#6 Copyright enforcement with Miriam Ballhausen</itunes:title>
+      <description>We invited Miriam Ballhausen to talk with us about copyright enforcement. She is a German lawyer who focuses on software, data protection, copyright law and specifically Free Software copyright. This is the sixth regular episode of the Software Freedom Podcast for which we invite experts from our community. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>We invited Miriam Ballhausen to talk with us about copyright enforcement. She is a German lawyer who focuses on software, data protection, copyright law and specifically Free Software copyright. This is the sixth regular episode of the Software Freedom Podcast for which we invite experts from our community. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#6 Copyright enforcement with Miriam Ballhausen</h1><p>We invited Miriam Ballhausen to talk with us about copyright enforcement. She is a German lawyer who focuses on software, data protection, copyright law and specifically Free Software copyright. This is the sixth regular episode of the Software Freedom Podcast for which we invite experts from our community.</p><p>In this sixth episode of the <a href="https://fsfe.org/news/podcast.html">Software Freedom Podcast</a> we talk about Free Software copyright enforcement with our guest, <a href="https://www.twobirds.com/de/our-lawyers/d/dr-miriam-ballhausen"> Miriam Ballhausen</a>. Miriam Ballhausen is a German laywer who specialises in Free Software copyright questions. Together we cover the basics about Free Software licensing and discuss how Free Software copyright can be enforced, what are the steps to enforce it and why it is often enforced in Germany. We also explore how the <a href="https://reuse.software">REUSE project</a> could help with being in compliance with Free Software licenses.</p><p>Read more:</p><ul>
+  <li><a href="https://fsfe.org/freesoftware/freesoftware.html">"What is Free Software?"</a></li>
+  <li><a href="https://www.fsf.org/licensing/enforcement-principles">The Principles of Community-Oriented GPL Enforcement</a></li>
+  <li><a href="https://www.fsf.org/licensing/education">Free Software Licensing Resources</a></li>
+  <li><a href="https://www.gnu.org/licenses/gpl-violation.html">Violations of the GNU Licenses</a></li>
+  <li><a href="https://reuse.software/">REUSE</a></li>
+  <li><a href="https://git.fsfe.org/reuse/">REUSE Git
+repositories</a></li>
+  <li><a href="https://github.com/fsfe/reuse-tool">REUSE helper tool</a></li>
+  <li><a href="https://fsfe.org/activities/ln/">The Legal Network</a></li>
+ </ul><p>If you liked this episode and want to support our continuing work for software freedom, please help us with a <a href="https://my.fsfe.org/donate/">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/482">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-6.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-6.en.html</guid>
+      <pubDate>03 Jul 2020 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Interview with Miriam Ballhausen</itunes:subtitle>
+      <itunes:duration>28:25</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP006.mp3" length="23872733" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="0:00" title="Welcome to the podcast"/>
+        <psc:chapter start="0:35" title="Introduction of Miriam Ballhausen"/>
+        <psc:chapter start="00:50" title="Interview with Miriam Ballhausen"/>
+        <psc:chapter start="27:14" title="Closing words"/>
+        <psc:chapter start="27:22" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP Special about GNU Health with Dr. Luis Falcón and Dr. Axel Braun</title>
+      <itunes:title>SFP Special about GNU Health with Dr. Luis Falcón and Dr. Axel Braun</itunes:title>
+      <description>For our Software Freedom Podcast we talk with people who have inspiring ideas about software freedom. In this special episode, we talk with Dr. Luis Falcón and Dr. Axel Braun about the Free health and hospital information system GNU Health. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>For our Software Freedom Podcast we talk with people who have inspiring ideas about software freedom. In this special episode, we talk with Dr. Luis Falcón and Dr. Axel Braun about the Free health and hospital information system GNU Health. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP Special about GNU Health with Dr. Luis Falcón and Dr. Axel Braun</h1><p>
+For our Software Freedom Podcast we talk with people who have inspiring ideas about software freedom. In this special episode, we talk with Dr. Luis Falcón and Dr. Axel Braun about the Free health and hospital information system GNU Health.</p><p>Unfortunately, as we had to do this podcast remotely this time, we cannot provide the same level of audio quality as you are used to in this podcast. We apologise for this and will look into
+better solutions for remote recordings for future episodes.</p><p>
+In this special episode of the Software Freedom Podcast we talk about some of the advantages of <a href=" https://www.gnuhealth.org">GNU Health</a> and how as a Free health and hospital information system it can and already does help with the current Covid-19 pandemic. Our guests are Dr. Luis Falcón who is the author of GNU Health and Dr. Axel Braun who published the first live CD of GNU Health. We discover how and why Dr. Luis Falcón got the idea for the software and what are the next steps in the development of GNU Health, how it is financed and where it is already being used. Together we speak about the importance of a Free health and hospital information system and why <a href="https://publiccode.eu/">public code</a> is essential in the public health care sector during the Covid-19 crisis and beyond. This is the perfect episode for an overview of how important Free Software is in the current situation and especially in hospitals and the public health system.
+</p>
+  <img src="https://pics.fsfe.org/uploads/medium/a9db4627c7eadd60b9316446002b688b.jpg"/>
+  GNU Health – the free health and hospital information system
+<p>Read more:</p><ul>
+  <li><a href="https://www.gnuhealth.org/#/about">GNU Health</a></li>
+  <li><a href="https://meanmicio.org/2020/03/31/tackling-the-beast-using-gnu-health-to-help-the-fight-against-the-covid-19-pandemic/">"Tackling the Beast: Using GNU Health to help the fight against the COVID-19 pandemic"</a></li>
+  <li><a href="https://www.youtube.com/watch?v=NBFzCJvzgL0">GNU Health in 5 Minutes</a></li>
+  <li><a href="https://publiccode.eu/">“Public Money? Public Code!” For more background information on public code in the public administrations</a></li>
+<li> <a href="https://fsfe.org/news/2020/news-20200408-01.html">COVID-19 Hackathons: Only Free Software creates global solutions</a></li>
+ <li> <a href="https://fsfe.org/news/2020/news-20200403-01.html">FSFE Supporters write about Free Software for remote working</a></li>
+  <li><a href="https://fsfe.org/news/2020/news-20200330-01.html">Freeware, Free Software and the Corona Virus Crisis – Choose your tools wisely!</a></li>
+<li><a href="https://fsfe.org/news/2020/news-20200327-01.html">FSFE in times of Corona: How a virus affects us</a></li>
+  <li><a href="https://fsfe.org/freesoftware/freesoftware">What is Free Software?</a></li>
+  <li><a href="https://fsfe.org/freesoftware/basics/4freedoms.html">The four freedoms of Free Software</a></li>
+</ul><p>If you liked this episode and want to support our continuing work for software freedom, please help us with a <a href="https://my.fsfe.org/donate/">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/software-freedom-podcast-special-about-gnu-health-with-dr-luis-falcon-and-dr-axel-braun/433">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-special-1.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-special-1.en.html</guid>
+      <pubDate>24 Apr 2020 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>Interview with Dr. Luis Falcón and Dr. Axel Braun about GNU Health, the Free health and hospital information system. The perfect episode for a quick overview why Free Software is no less important during a pandemic.</itunes:subtitle>
+      <itunes:duration>27:29</itunes:duration>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP-special-1.mp3" length="23083160" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="0:00" title="Preface"/>
+        <psc:chapter start="0:16" title="Welcome to the podcast"/>
+        <psc:chapter start="0:47" title="Introduction of Dr. Luis Falcón and Dr. Axel Braun"/>
+        <psc:chapter start="01:33" title="Interview with Dr. Luis Falcón and Dr. Axel Braun"/>
+        <psc:chapter start="26:10" title="Closing words"/>
+        <psc:chapter start="26:44" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#5 about regulation with Professor Lawrence Lessig</title>
+      <itunes:title>SFP#5 about regulation with Professor Lawrence Lessig</itunes:title>
+      <description>For our Software Freedom Podcast we talk with people who have inspiring ideas about software freedom. In this episode, we talk with Professor Lawrence Lessig, founder of Creative Commons, about regulation of society, offline as well as online, about the different means of regulation, and shed light on regulations through code. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>For our Software Freedom Podcast we talk with people who have inspiring ideas about software freedom. In this episode, we talk with Professor Lawrence Lessig, founder of Creative Commons, about regulation of society, offline as well as online, about the different means of regulation, and shed light on regulations through code. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#5 about regulation with Professor Lawrence Lessig</h1><p>
+For our Software Freedom Podcast we talk with people who have inspiring ideas about software freedom. In this episode, we talk with Professor Lawrence Lessig, founder of Creative Commons, about regulation of society, offline as well as online, about the different means of regulation, and shed light on regulations through code.</p><p>
+This fifth episode of the Software Freedom Podcast covers the complicated topic of regulation. Our guest is Professor Lawrence Lessig from the Harvard Law School. Lessig is a former board member of the <a href="https://www.fsf.org/">Free Software Foundation</a> and the <a href="https://www.eff.org/">Electronic Frontier Foundation</a>, as well as founder and present Board member of <a href="https://creativecommons.org/">Creative Commons</a>. Lessig has published several books, including the influential and often-quoted <a href="http://www.codev2.cc/">"Code and Other Laws of Cyberspace"</a>. In this episode we discuss with Professor Lessig the different types of regulation that affect society both online and offline, such as laws, norms, the market, or architecture. In this respect we also touch upon code as a means of regulation. Enjoy learning about the positive and negative effects that some of these regulations can have on society, as well as the further development of ideas.
+</p> 
+			<img src="https://pics.fsfe.org/uploads/medium/fccbf565c4b9ccd93b7e4857a59ec963.jpg"/>
+			Katharina Nocun, Lawrence Lessig and Matthias Kirschner while recording the Software Freedom Podcast.
+		<p>Read more:</p><ul>
+  <li><a href="https://www.lessig.org/new-blog/">Professor Lawrence Lessig</a></li>
+  <li><a href="https://www.lessig.org/books/">Books from Professor Lawrence Lessig</a></li>
+  <li><a href="https://www.fsf.org">Free Software Foundation</a></li>
+  <li><a href="https://creativecommons.org/">Creative Commons</a></li>
+  <li><a href="https://creativecommons.org/faq/#what-is-copyright-and-why-does-it-matter">Copyright</a></li>
+  <li><a href="https://fsfe.org/freesoftware/freesoftware">What is Free Software?</a></li>
+  <li><a href="https://fsfe.org/freesoftware/basics/4freedoms.html">The four freedoms of Free Software</a></li>
+</ul><p>If you liked this episode and want to support our continuing work for software freedom, please help us with a <a href="https://my.fsfe.org/donate">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/software-freedom-podcast-5-about-regulation-with-professor-lawrence-lessig/424">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-5.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-5.en.html</guid>
+      <pubDate>09 Apr 2020 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Interview with Professor Lawrence Lessig about regulation of society, offline as well as online. The perfect episode for a quick overview of how regulation can affect our daily life.</itunes:subtitle>
+      <itunes:duration>25:43</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP005.mp3" length="21866066" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="0:00" title="Welcome to the podcast"/>
+        <psc:chapter start="0:32" title="Introduction of Professor Lawrence Lessig"/>
+        <psc:chapter start="01:00" title="Interview with Professor Lawrence Lessig about regulations"/>
+        <psc:chapter start="24:34" title="Closing words"/>
+        <psc:chapter start="24:54" title="Outro"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#4 about REUSE with Carmen Bianca Bakker</title>
+      <itunes:title>SFP#4 about REUSE with Carmen Bianca Bakker</itunes:title>
+      <description>In the monthly Software Freedom Podcast we talk with people who have inspiring ideas about software freedom. In this episode, we talk with Carmen Bianca Bakker about the REUSE project. By this we are covering the very broad topic of software licensing and the problems there, which REUSE is able to solve with three simple steps. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>In the monthly Software Freedom Podcast we talk with people who have inspiring ideas about software freedom. In this episode, we talk with Carmen Bianca Bakker about the REUSE project. By this we are covering the very broad topic of software licensing and the problems there, which REUSE is able to solve with three simple steps. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#4 about REUSE with Carmen Bianca Bakker</h1><p>
+In the monthly Software Freedom Podcast we talk with people who have inspiring ideas about software freedom. In this episode, we talk with Carmen Bianca Bakker about the REUSE project. By this we are covering the very broad topic of software licensing and the problems there, which REUSE is able to solve with three simple steps.
+</p><p>
+ With the first episode of 2020 and the fourth episode of the Software Freedom Podcast we aimed at the broad and sometimes complicated topic of software licensing. For this we invited Carmen Bianca Bakker who is together with Max Mehl working on the <a href="https://reuse.software">REUSE project</a>. The REUSE project helps with the licensing of software by making licensing easy for humans as well as for machines. Together with Carmen we discuss the problems that occur with licensing, talk about the REUSE tool and the next steps in its development.
+</p><p>Read more:</p><ul>
+  <li><a href="https://reuse.software/">REUSE</a></li>
+  <li><a href="https://git.fsfe.org/reuse/">REUSE Git repositories</a></li>
+  <li><a href="https://github.com/fsfe/reuse-tool">REUSE-tool</a></li>
+  <li><a href="https://fsfe.org/freesoftware/basics/4freedoms.html">The four freedoms of Free Software</a></li>
+  <li><a href="https://fsfe.org/freesoftware/freesoftware">What is Free Software?</a></li>
+</ul><p>If you liked this episode and want to support our continuing work for software freedom, please help us with a <a href="https://my.fsfe.org/donate">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/software-freedom-podcast-4-about-reuse-with-carmen-bianca-bakker/394">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-4.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-4.en.html</guid>
+      <pubDate>21 Jan 2020 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Interview with Carmen Bianca Bakker about REUSE. The perfect episode for a quick overview of software licensing and how to adopt REUSE</itunes:subtitle>
+      <itunes:duration>23:38</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP004.mp3" length="19853167" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="0:00" title="Welcome to the podcast"/>
+        <psc:chapter start="0:32" title="Introduction of Carmen Bianca Bakker"/>
+        <psc:chapter start="00:45" title="Interview with Carmen Bianca Bakker about REUSE"/>
+        <psc:chapter start="22:34" title="Closing words"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#3 about Free Software in the mobile phone communication with Harald Welte </title>
+      <itunes:title>SFP#3 about Free Software in the mobile phone communication with Harald Welte </itunes:title>
+      <description>Once a month, we talk with people who have inspiring ideas about software freedom. In this third episode, our guest is Harald Welte, Free Software programmer and activist. Harald discusses with us his current projects regarding mobile phone communication and the general status of Free Software in this area. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>Once a month, we talk with people who have inspiring ideas about software freedom. In this third episode, our guest is Harald Welte, Free Software programmer and activist. Harald discusses with us his current projects regarding mobile phone communication and the general status of Free Software in this area. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>SFP#3 about Free Software mobile phone communication with Harald Welte
+</h1><p>
+Once a month, we talk with people who have inspiring ideas about software freedom. In this third episode, our guest is Harald Welte, Free Software programmer and activist. Harald discusses with us his current projects regarding mobile phone communication and the general status of Free Software in this area. 
+</p><p>
+One of the main topics this year was and still is the coming implementation of the 5G standard. There were long debates, and several countries have taken steps to ban specific vendors. These countries are even trying to convince others to do likewise. To allow enough room for this broad issue and include an expert's point of view, we dedicate a full Software Freedom Podcast episode to discuss this with Harald Welte. Harald is a Free Software developer known for his involvement in OpenMoko, the first Free Software phone; his work for gplviolations.org to make sure companies adhere to the obligations of Free Software licenses; and nowadays his work on the umbrella project "Open source mobile communications", or Osmocom for short.</p><p>Together with Harald, we give you an overview of the use of Free Software in mobile phone communication; talk with you about the basics of this technology; about the difference of 3G, 4G, and 5G; the Huawei ban and <a href="https://osmocom.org/">Osmocom</a>; as well as about the state of Free Software in those fields.</p><p>Read more:</p><ul>
+  <li><a href="https://osmocom.org/">About Osmocom</a></li>
+  <li><a href="http://git.osmocom.org/">Osmocom Git repositories</a></li>
+  <li><a href="https://fsfe.org/news/2019/news-20190205-01.html">Huawei case demonstrates importance of Free Software for security</a></li>
+  <li><a href="https://fsfe.org/news/2019/news-20190520-01.html">Three conclusions to draw from Google denying Huawei access to software</a></li>
+ </ul><p>If you liked this episode and want to support our continuing work for software freedom, please help us with a <a href="https://my.fsfe.org/donate">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/software-freedom-podcast-3-about-free-software-mobile-phone-communication-with-harald-welte/375">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-3.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-3.en.html</guid>
+      <pubDate>20 Dec 2019 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Interview with Harald Welte about Free Software in mobile phone communication. The perfect episode for a quick overview of Free Software in mobile phone communication</itunes:subtitle>
+      <itunes:duration>30:18</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP003.mp3" length="25449693" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="0:00" title="Welcome to the podcast"/>
+        <psc:chapter start="00:32" title="Introduction of Harald Welte"/>
+        <psc:chapter start="01:03" title="Interview with Harald Welte about Free Software in mobile phone communication"/>
+        <psc:chapter start="29:35" title="Closing words"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#2 about KDE with Lydia Pintscher </title>
+      <itunes:title>SFP#2 about KDE with Lydia Pintscher </itunes:title>
+      <description>We are back with the second episode of our Software Freedom Podcast! Once a month, we talk with people who have inspiring ideas about software freedom. In this episode, we talk with Lydia Pintscher from KDE about the development of the KDE community, the different KDE projects and the issues they will be tackling over the next two years. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>We are back with the second episode of our Software Freedom Podcast! Once a month, we talk with people who have inspiring ideas about software freedom. In this episode, we talk with Lydia Pintscher from KDE about the development of the KDE community, the different KDE projects and the issues they will be tackling over the next two years. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>
+  SFP#2 about KDE with Lydia Pintscher
+</h1><p>
+ We are back with the second episode of our Software Freedom Podcast! 
+ Once a month, we talk with people who have inspiring ideas about 
+ software freedom. In this episode, we talk with Lydia Pintscher from 
+ KDE about the development of the KDE community, the different KDE projects 
+ and the issues they will be tackling over the next two years. 
+</p><p>
+ When we were planning this second episode of the Software Freedom Podcast,
+ we were keen on inviting someone from the Free Software community. We 
+ thought that Lydia, as the current Vice President of KDE, would be the 
+ perfect person to join us for our second episode. This gives us the chance 
+ to introduce to you the wonderful KDE community and all its different projects. 
+ In this episode, we talk about how Lydia balances her day job with the 
+ volunteer position of vice president of KDE. We also discuss some broader 
+ topics like the development of the KDE community and the different projects 
+ they are working on, as well as the future outlook of these projects. 
+</p><p>Read more:</p><ul>
+  <li><a href="https://kde.org">About KDE</a></li>
+  <li><a href="https://community.kde.org/Get_Involved">Join the KDE community</a></li>
+  <li><a href="https://kde.org/goals">KDE Akademy goals</a></li>
+</ul><p>If you liked this episode and want to support our continuing work for software freedom, please help us with a <a href="https://my.fsfe.org/donate">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/software-freedom-podcast-2-about-kde-with-lydia-pintscher/363">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-2.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-2.en.html</guid>
+      <pubDate>12 Nov 2019 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Interview with Lydia Pintscher about KDE. The perfect episode for a quick overview of KDE</itunes:subtitle>
+      <itunes:duration>23:40</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP002.mp3" length="22604880" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="0:00" title="Welcome to the podcast"/>
+        <psc:chapter start="0:32" title="Introduction to KDE and Lydia Pintscher"/>
+        <psc:chapter start="01:20" title="Interview with Lydia Pintscher about KDE"/>
+        <psc:chapter start="22:50" title="Closing words"/>
+      </psc:chapters>
+    </item>
+    <item>
+      <title>SFP#1 on Day Against DRM with Cory Doctorow</title>
+      <itunes:title>SFP#1 on Day Against DRM with Cory Doctorow</itunes:title>
+      <description>We have a Podcast! Starting with this episode, we will talk once a month with people who have inspiring ideas about software freedom. In our first episode of our Software Freedom Podcast, we address the issue of Digital Restrictions Management (DRM) together with Cory Doctorow, a British-Canadian writer, political activist, and co-editor of the blog boingboing.net. Cory Doctorow is a prominent supporter of software freedom and a less restrictive copyright law. His books are published under Creative Commons licenses. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</description>
+      <itunes:summary>We have a Podcast! Starting with this episode, we will talk once a month with people who have inspiring ideas about software freedom. In our first episode of our Software Freedom Podcast, we address the issue of Digital Restrictions Management (DRM) together with Cory Doctorow, a British-Canadian writer, political activist, and co-editor of the blog boingboing.net. Cory Doctorow is a prominent supporter of software freedom and a less restrictive copyright law. His books are published under Creative Commons licenses. Join the FSFE community and support the podcast: https://my.fsfe.org/support?referrer=podcast</itunes:summary>
+      <content:encoded><![CDATA[<h1>
+  SFP#1 on Day Against DRM with Cory Doctorow
+</h1><p>
+  We have a Podcast! Starting with this episode, we will talk once a
+  month with people who have inspiring ideas about software freedom. In
+  our first episode of our Software Freedom Podcast, we address the
+  issue of Digital Restrictions Management (DRM) together with Cory
+  Doctorow, a British-Canadian writer, political activist, and
+  co-editor of the blog boingboing.net. Cory Doctorow is a prominent
+  supporter of software freedom and a less restrictive copyright law.
+  His books are published under Creative Commons licenses.
+</p><p>
+  When we planned the first episode, we exchanged some ideas for
+  possible guests. When we heard that the <a href="https://www.defectivebydesign.org/dayagainstdrm/2019">Day
+  Against DRM</a> will take place in October we thought: we have to get
+  Cory Doctorow as our first guest on Digital Restrictions Management.
+  In this episode of the Software Freedom Podcast, we talk about the
+  difference between books and an e-books with DRM, how authors and
+  artist can make money without DRM, security implications of DRM,
+  regulation of the so called "Internet of Things", and other questions
+  related to this issue.
+</p><p>Read more:</p><ul>
+  <li><a href="https://www.defectivebydesign.org/dayagainstdrm/2019">Day against DRM 2019</a></li>
+  <li><a href="https://fsfe.org/activities/drm/drm.html">More information about DRM</a></li>
+  <li><a href="https://fsfe.org/contribute/spreadtheword#drm-leaflet">Informative leaflet explaining DRM</a></li>
+  <li><a href="https://fsfe.org/activities/drm/sony-rootkit-fiasco.html">"Revisiting the Sony Rootkit"</a></li>
+  <li><a href="https://boingboing.net/">Boing Boing</a></li>
+</ul><p>If you liked this episode and want to support our continuing work for software freedom, please help us with a <a href="https://my.fsfe.org/donate">donation</a>.</p><p><a class="learn-more" href="https://community.fsfe.org/t/software-freedom-podcast-1-on-day-against-drm-with-cory-doctorow/344">Discuss this </a></p><p><a href="https://my.fsfe.org/support?referrer=podcast">Join the FSFE community and support the podcast</a></p>]]></content:encoded>
+      <link>https://fsfe.org/news/podcast/episode-1.en.html</link>
+      <guid isPermaLink="false">https://fsfe.org/news/podcast/episode-1.en.html</guid>
+      <pubDate>12 Oct 2019 00:00:00 +0100</pubDate>
+      <itunes:author>Free Software Foundation Europe (FSFE)</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>false</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Interview with Cory Doctorow about DRM, how lack of technological control affects our society today and in the future, and his latest book "Unauthorized Bread". The perfect episode for the annual Day against DRM!</itunes:subtitle>
+      <itunes:duration>39:42</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://download.fsfe.org/audio/podcast/SFP01.mp3" length="38125101" type="audio/mp3"/>
+      <psc:chapters>
+        <psc:chapter start="0:00" title="Welcome to the podcast"/>
+        <psc:chapter start="0:25" title="Introduction to DRM and Cory Doctorow"/>
+        <psc:chapter start="38:38" title="Conclusion and closing words"/>
+      </psc:chapters>
+    </item>
+  </channel>
+</rss>
