@@ -1,0 +1,96 @@
+# Font settings
+font pango:DejaVu Sans Mono 10
+
+# Modifier key
+set $mod Mod4
+
+# Basic bindings
+# Start terminal
+bindsym $mod+Return exec mate-terminal
+# Kill focused window
+bindsym $mod+Shift+q kill
+# Application launcher
+bindsym $mod+d exec dmenu_run
+
+# Window focus bindings
+bindsym $mod+j focus left
+bindsym $mod+k focus down
+bindsym $mod+l focus up
+bindsym $mod+semicolon focus right
+
+# Move windows
+bindsym $mod+Shift+j move left
+bindsym $mod+Shift+k move down
+bindsym $mod+Shift+l move up
+bindsym $mod+Shift+semicolon move right
+
+# Split containers
+bindsym $mod+h split h
+bindsym $mod+v split v
+
+# Window management
+# Fullscreen toggle
+bindsym $mod+f fullscreen toggle
+# Layout toggle
+bindsym $mod+e layout toggle split
+# Floating toggle
+bindsym $mod+Shift+space floating toggle
+
+# Workspace management
+bindsym $mod+1 workspace 1
+bindsym $mod+2 workspace 2
+bindsym $mod+3 workspace 3
+bindsym $mod+4 workspace 4
+bindsym $mod+5 workspace 5
+# Move containers to workspaces
+bindsym $mod+Shift+1 move container to workspace 1
+bindsym $mod+Shift+2 move container to workspace 2
+
+# Reload and restart i3
+bindsym $mod+Shift+c reload
+bindsym $mod+Shift+r restart
+
+# Resize mode
+mode "resize" {
+    # Resize with arrow keys
+    bindsym j resize shrink width 10 px or 10 ppt
+    bindsym k resize grow height 10 px or 10 ppt
+    bindsym l resize shrink height 10 px or 10 ppt
+    bindsym semicolon resize grow width 10 px or 10 ppt
+    # Exit resize mode
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+}
+bindsym $mod+r mode "resize"
+
+# Status bar configuration
+bar {
+    status_command i3status
+    position top
+    font pango:DejaVu Sans Mono 10
+}
+
+# System commands (power menu)
+set $mode_system System (l) lock, (e) logout, (r) reboot, (Shift+s) shutdown
+mode "$mode_system" {
+    bindsym l exec i3exit lock, mode "default"
+    bindsym e exec i3exit logout, mode "default"
+    bindsym r exec i3exit reboot, mode "default"
+    bindsym Shift+s exec i3exit shutdown, mode "default"
+    bindsym Escape mode "default"
+}
+bindsym $mod+Pause mode "$mode_system"
+
+# Volume control
+bindsym XF86AudioRaiseVolume exec amixer -q sset Master 5%+ unmute
+bindsym XF86AudioLowerVolume exec amixer -q sset Master 5%- unmute
+bindsym XF86AudioMute exec amixer -q sset Master toggle
+
+# Custom bindings for frequently used apps
+bindsym $mod+c exec chromium
+bindsym $mod+t exec thunar
+bindsym $mod+x exec hexchat
+
+# Autostart applications
+exec --no-startup-id nm-applet
+exec --no-startup-id sh ~/.fehbg
